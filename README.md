@@ -304,7 +304,7 @@ EchoMuse isn't just AI-powered — it's crypto-enabled. The $MUSE token brings r
   </table>
 </div>
 
-## 🤝 Contributing
+## 🤝 Contributing :
 
 We welcome contributions from the community! If you're interested in helping improve EchoMuse:
 
